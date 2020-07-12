@@ -6,9 +6,9 @@ Unlike public transportation, Uber and Lyft’s ride prices are not constant and
 
 ## Ⅱ. Problem Description:
 There are three main problems we try to solve: 
-    1. Can we accurately predict the cab price? 
-    2. What features are more important on cab price? 
-    3. When and where is the cab demand higher? 
+1. Can we accurately predict the cab price? 
+2. What features are more important on cab price? 
+3. When and where is the cab demand higher? 
 
-Our main goal is to build a model to predict ride price based on given conditions. As we all know, distance, time, car type and so on, may impact on cab price. If we know a certain condition, can we use it to predict a right ride price? Besides, we also wonder which features are more important on cab price. As costumers, we always want to reduce our cost. If we know what conditions may cause high cost, we can avoid them and save money. For drivers, they are more concerned for earning money. As a result, increasing cab order will benefit to drives. Then where and when the cab demand higher is important and it is our third problem.
+Our main goal is to build a model to predict the ride price based on given conditions. As we all know, distance, time, car type and so on, may impact on cab price. If we know a certain condition, can we use it to predict the right ride price? Besides, we also wonder which features are more important on cab price. As costumers, we always want to reduce our cost. If we know what conditions may cause a high cost, we can avoid them and save money. For drivers, they are more concerned for earning money. As a result, increasing cab order will benefit to drives. Then where and when the cab demand higher is important and it is our third problem.
  
